@@ -8,6 +8,7 @@ The code & model weights will be released soon.
 ## Qualitative comparison
 
 Compared to previous methods, MS-Sync produces more natural head motion, and both lips and head motion are synced with the speech input thanks to a multi-scale synchrony loss.
+You can view in **full screen** and advance **frame by frame** to compare lips movements with Ground truth and Prajwal et al.'s state-of-the-art visual dubbing method :point_down:.
 
 **Sample #1 (don't forget to switch audio on)**
 
@@ -56,6 +57,8 @@ Our model was trained on sequences of 40 frames and can produce outputs of much 
 
 
 ## Additional results
+
+Notice how head motion correlates with (the intensity of) the speech signal :point_down:
 
 **Sample #1**
 
