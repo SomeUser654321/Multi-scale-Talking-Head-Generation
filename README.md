@@ -53,7 +53,7 @@ The Gif version:
 ![combined](https://github.com/LouisBearing/HMo-audio/assets/36541517/fd9eff2e-a128-407c-8ec3-a41cc063c1d0)
 
 
-Our model was trained on sequences of 40 frames and can produce outputs of much longer duration (120 frames in the examples above). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit.
+Our model was trained on **sequences of 40 frames** and can produce outputs of **much longer duration** (120 frames in the examples above). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit.
 
 
 ## Additional results
