@@ -63,14 +63,11 @@ Our model was trained on **sequences of 40 frames** and can produce outputs of *
 
 **Sample #1**
 
-
 https://github.com/LouisBearing/HMo-audio/assets/36541517/f194b329-9b11-40c6-a199-65018ecd99f8
-
 
 **Sample #2**
 
 https://github.com/LouisBearing/HMo-audio/assets/36541517/32d52226-6660-46d9-a59f-bacdd33aa4fb
-
 
 **Sample #3**
 
