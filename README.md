@@ -59,7 +59,7 @@ The Gif version:
 
 Here we present additional results. Notice how head motion correlates with (the intensity of) the speech signal :point_down:.
 
-Our model was trained on **sequences of 40 frames** and can produce outputs of **much longer duration** (120 frames in all examples presented on this page). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit. We therefore also present several failure cases at the end.
+Our model was trained on **sequences of 40 frames** and can produce outputs of **much longer duration** (120 frames in all examples presented on this page). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit. We therefore also present several **failure cases** at the end.
 
 **Sample #1**
 
@@ -163,13 +163,14 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 ### Failure cases :bug: :boom:
 
-Some samples can present a from of dynamics mode collapse:
+Some samples can present a from of dynamics **mode collapse**:
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ca8c81e5-c180-4f91-9644-d6ff2b73a9cb
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/f02ff4e4-9800-4390-a3c8-fc624959f6bf
 
-Also as our model generates 2D coordinates without rigid constraints some frames can be unrealistic, even on sequence of medium length:
+
+Also as our model generates 2D coordinates without rigid constraints some frames can be **unrealistic**, even on sequence of medium length:
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/38f246d6-0fd4-495f-8880-e5ebe657b303
 
