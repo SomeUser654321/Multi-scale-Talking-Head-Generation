@@ -157,17 +157,18 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b9dda2a3-6f19-4502-b8e6-4673f65e33fe
 
+---
 
 ### Failure cases :bug: :boom:
 
-Some samples can present a from of dynamics **mode collapse**:
+**Case 1** - Some samples can present a from of dynamics **mode collapse**:
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ca8c81e5-c180-4f91-9644-d6ff2b73a9cb
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/f02ff4e4-9800-4390-a3c8-fc624959f6bf
 
 
-Also as our model generates 2D coordinates without rigid constraints some frames can be **unrealistic**, even on sequence of medium length:
+**Case 2** -Also as our model generates 2D coordinates without rigid constraints some frames can be **unrealistic**, even on sequence of medium length:
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/38f246d6-0fd4-495f-8880-e5ebe657b303
 
