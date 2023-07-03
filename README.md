@@ -79,4 +79,108 @@ https://github.com/LouisBearing/HMo-audio/assets/36541517/32d52226-6660-46d9-a59
 https://github.com/LouisBearing/HMo-audio/assets/36541517/0ddce381-8939-479f-b9cb-3a5b9882038c
 
 
+**Sample #4**
+
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/da98a311-241c-42c8-976d-815d10df3a4c
+
+**Sample #5**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/4407b1bf-7453-4d17-84f3-68df0ba6adea
+
+**Sample #6**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/6decfdc1-51a8-4352-9efb-09907cd16a83
+
+**Sample #7**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ba54b549-d558-4b0c-a2ac-dda5404164c9
+
+**Sample #8**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ed57ab1c-53fb-4db0-a184-bfa894137b31
+
+**Sample #9**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b73e15d6-d01f-46b3-ab75-065ae7eb43c5
+
+**Sample #10**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/3bc36684-fc6b-4658-8cb6-e7b05bbe87d1
+
+**Sample #11**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b2631b09-68bf-413a-a308-e420272bb821
+
+**Sample #12**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/22755e55-0215-4a7e-86dd-e1b707523b73
+
+**Sample #13**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/c8be43db-a628-4db6-8e90-302507118e79
+
+**Sample #14**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/be093312-d899-4381-93d1-dd9059bfdc1f
+
+**Sample #15**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/0f12a930-950c-4138-b796-0baf0ccb7b2c
+
+**Sample #16**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/7a77d567-f9c9-4b17-85d7-35fe03df8ac8
+
+**Sample #17**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/85dff47c-e7c3-461a-a805-5d380e6037b5
+
+**Sample #18**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/f9e5eb3a-1db2-4d40-92ed-8d21e787b7bb
+
+**Sample #19**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/38f246d6-0fd4-495f-8880-e5ebe657b303
+
+**Sample #20**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/513856e5-6429-4224-8ebd-e1676e61b927
+
+**Sample #21**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ca8c81e5-c180-4f91-9644-d6ff2b73a9cb
+
+**Sample #22**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/f02ff4e4-9800-4390-a3c8-fc624959f6bf
+
+**Sample #23**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/9df6f13a-7356-4676-9b2f-b5bc290c1051
+
+**Sample #24**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b9dda2a3-6f19-4502-b8e6-4673f65e33fe
+
+**Sample #25**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/8a13e6f9-73d1-4598-9f7f-e8b7cb89b0fb
+
+**Sample #26**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b90dc70f-23c0-497c-9170-be98b7b5f3ec
+
+**Sample #27**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/5d5e6999-b504-41a2-93cb-867230c95602
+
+**Sample #28**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/cbdddb01-3adc-4047-bed8-43b962a14fef
+
+**Sample #29**
+
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/2f20476d-119a-4648-a527-91edcdeb7f55
 
