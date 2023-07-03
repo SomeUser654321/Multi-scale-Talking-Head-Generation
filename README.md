@@ -54,12 +54,12 @@ The Gif version:
 ![combined](https://github.com/LouisBearing/HMo-audio/assets/36541517/fd9eff2e-a128-407c-8ec3-a41cc063c1d0)
 
 
-Our model was trained on **sequences of 40 frames** and can produce outputs of **much longer duration** (120 frames in the examples above). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit.
-
 
 ## Additional results
 
-Notice how head motion correlates with (the intensity of) the speech signal :point_down:
+Here we present additional results. Notice how head motion correlates with (the intensity of) the speech signal :point_down:.
+
+Our model was trained on **sequences of 40 frames** and can produce outputs of **much longer duration** (120 frames in all examples presented on this page). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit. We therefore also present several failure cases at the end.
 
 **Sample #1**
 
@@ -74,13 +74,9 @@ https://github.com/LouisBearing/HMo-audio/assets/36541517/32d52226-6660-46d9-a59
 
 **Sample #3**
 
-
-
 https://github.com/LouisBearing/HMo-audio/assets/36541517/0ddce381-8939-479f-b9cb-3a5b9882038c
 
-
 **Sample #4**
-
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/da98a311-241c-42c8-976d-815d10df3a4c
 
@@ -98,11 +94,11 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 **Sample #8**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ed57ab1c-53fb-4db0-a184-bfa894137b31
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/8a13e6f9-73d1-4598-9f7f-e8b7cb89b0fb
 
 **Sample #9**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b73e15d6-d01f-46b3-ab75-065ae7eb43c5
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b90dc70f-23c0-497c-9170-be98b7b5f3ec
 
 **Sample #10**
 
@@ -114,7 +110,7 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 **Sample #12**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/22755e55-0215-4a7e-86dd-e1b707523b73
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/5d5e6999-b504-41a2-93cb-867230c95602
 
 **Sample #13**
 
@@ -142,19 +138,19 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 **Sample #19**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/38f246d6-0fd4-495f-8880-e5ebe657b303
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/cbdddb01-3adc-4047-bed8-43b962a14fef
 
 **Sample #20**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/513856e5-6429-4224-8ebd-e1676e61b927
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/2f20476d-119a-4648-a527-91edcdeb7f55
 
 **Sample #21**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ca8c81e5-c180-4f91-9644-d6ff2b73a9cb
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ed57ab1c-53fb-4db0-a184-bfa894137b31
 
 **Sample #22**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/f02ff4e4-9800-4390-a3c8-fc624959f6bf
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b73e15d6-d01f-46b3-ab75-065ae7eb43c5
 
 **Sample #23**
 
@@ -164,23 +160,19 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b9dda2a3-6f19-4502-b8e6-4673f65e33fe
 
-**Sample #25**
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/8a13e6f9-73d1-4598-9f7f-e8b7cb89b0fb
+### Failure cases :bug: :boom:
 
-**Sample #26**
+Some samples can present a from of dynamics mode collapse:
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/b90dc70f-23c0-497c-9170-be98b7b5f3ec
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/ca8c81e5-c180-4f91-9644-d6ff2b73a9cb
 
-**Sample #27**
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/f02ff4e4-9800-4390-a3c8-fc624959f6bf
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/5d5e6999-b504-41a2-93cb-867230c95602
+Also as our model generates 2D coordinates without rigid constraints some frames can be unrealistic, even on sequence of medium length:
 
-**Sample #28**
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/38f246d6-0fd4-495f-8880-e5ebe657b303
 
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/cbdddb01-3adc-4047-bed8-43b962a14fef
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/513856e5-6429-4224-8ebd-e1676e61b927
 
-**Sample #29**
-
-https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/2f20476d-119a-4648-a527-91edcdeb7f55
-
+https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138246474/22755e55-0215-4a7e-86dd-e1b707523b73
