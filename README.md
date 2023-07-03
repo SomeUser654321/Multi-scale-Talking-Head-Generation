@@ -159,7 +159,7 @@ https://github.com/SomeUser654321/Multi-scale-Talking-Head-Generation/assets/138
 
 ---
 
-### Failure cases :bug: :boom:
+### Failure cases
 
 **Case 1** - Some samples can present a from of dynamics **mode collapse**:
 
