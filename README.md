@@ -57,7 +57,7 @@ The Gif version:
 
 ## Additional results
 
-Here we present additional results. Notice how head motion correlates with (the intensity of) the speech signal :point_down:.
+Here we present additional results. **Notice how head motion correlates with (the intensity of) the speech signal** :point_down:.
 
 Our model was trained on **sequences of 40 frames** and can produce outputs of **much longer duration** (120 frames in all examples presented on this page). However as it is an autoregressive generation process, error may accumulate if length exceeds a certain limit. We therefore also present several **failure cases** at the end.
 
